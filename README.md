@@ -76,5 +76,5 @@
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
 ##
-  
-![Snake animation](https://github.com/melisakyoll/melisakyoll/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/melisakyoll/melisakyoll/blob/output/github-contribution-grid-snake.gif)
