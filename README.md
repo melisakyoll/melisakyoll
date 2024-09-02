@@ -27,6 +27,6 @@
 ##
 
 <h3>🙏 Thank you for visiting 🙏</h3>
-<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+<img src="https://profile-counter.glitch.me/melisakyoll/count.svg">
 
 ##
